@@ -28,34 +28,43 @@
 </div>
 
 <table>
-<tr><td width="55%" valign="top">
+<tr><td>
 
 ```
-vishal@github:~$ neofetch
-
- ╦  ╦╦╔═╗╦ ╦╔═╗╦
- ╚╗╔╝║╚═╗╠═╣╠═╣║
-  ╚╝ ╩╚═╝╩ ╩╩ ╩╩═╝
-
- OS        Linux
- Host      KLE Tech University, Hubballi
- Uptime    Since Oct 2023 on GitHub
- Packages  14 public repos
- Shell     Full Stack + ML
- Terminal  VS Code + Neovim
- Resolution 1920x1080
-
- ■ ■ ■ ■ ■ ■ ■ ■
+ ╭─────────────────────────────────────────────────────────╮
+ │                                                         │
+ │   vishal@github ~ $ neofetch                            │
+ │                                                         │
+ │   ██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗               │
+ │   ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║               │
+ │   ██║   ██║██║███████╗███████║███████║██║               │
+ │   ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║               │
+ │    ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗          │
+ │     ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝          │
+ │                                                         │
+ │   OS ·········· Linux                                   │
+ │   Host ········ KLE Tech University, Hubballi           │
+ │   Uptime ······ Since Oct 2023 on GitHub                │
+ │   Packages ···· 14 public repos                         │
+ │   Shell ······· Full Stack + Machine Learning           │
+ │   Resolution ·· 1920x1080                               │
+ │   Terminal ···· VS Code + Neovim                        │
+ │                                                         │
+ │   ██ ██ ██ ██ ██ ██ ██ ██                               │
+ │                                                         │
+ ╰─────────────────────────────────────────────────────────╯
 ```
 
-</td><td width="45%" valign="top">
+</td><td width="40%" valign="top">
+
+<br/>
 
 ```js
 // vishal.config.js
 
 module.exports = {
   location: "Hubballi, India 📍",
-  education: "KLE Tech University",
+  education: "KLE Technological University",
 
   languages: [
     "Python", "Java", "C", "C++",
@@ -160,16 +169,6 @@ module.exports = {
 <a href="https://github.com/VISHAL-Nk">
   <img src="https://streak-stats.demolab.com/?user=VISHAL-Nk&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=A960FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
 </a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VISHAL-Nk&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
