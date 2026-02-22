@@ -217,8 +217,6 @@ module.exports = {
 
 </div>
 
-> ⚙️ *Go to the **Actions** tab → **Generate Snake Animation** → **Run workflow** to activate this.*
-
 ---
 
 <div align="center">
