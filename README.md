@@ -28,49 +28,40 @@
 </div>
 
 <table>
-<tr><td>
+<tr><td width="55%" valign="top">
 
 ```
- ╭──────────────────────────────────────────────────────────────────╮
- │                                                                  │
- │   vishal@github ~ $ neofetch                                     │
- │                                                                  │
- │   ██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗                        │
- │   ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║                        │
- │   ██║   ██║██║███████╗███████║███████║██║                        │
- │   ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║                        │
- │    ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗                   │
- │     ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                   │
- │                                                                  │
- │   OS ·········· Linux                                            │
- │   Host ········ KLE Technological University, Hubballi           │
- │   Uptime ······ Since Oct 2023 on GitHub                         │
- │   Packages ···· 14 public repos                                  │
- │   Shell ······· Full Stack + Machine Learning                    │
- │   Resolution ·· 1920x1080 (cuz I love my screen real estate)     │
- │   Terminal ···· VS Code + Neovim                                 │
- │                                                                  │
- │   ██ ██ ██ ██ ██ ██ ██ ██                                        │
- │                                                                  │
- ╰──────────────────────────────────────────────────────────────────╯
+vishal@github:~$ neofetch
+
+ ╦  ╦╦╔═╗╦ ╦╔═╗╦
+ ╚╗╔╝║╚═╗╠═╣╠═╣║
+  ╚╝ ╩╚═╝╩ ╩╩ ╩╩═╝
+
+ OS        Linux
+ Host      KLE Tech University, Hubballi
+ Uptime    Since Oct 2023 on GitHub
+ Packages  14 public repos
+ Shell     Full Stack + ML
+ Terminal  VS Code + Neovim
+ Resolution 1920x1080
+
+ ■ ■ ■ ■ ■ ■ ■ ■
 ```
 
-</td><td width="40%" valign="top">
-
-<br/>
+</td><td width="45%" valign="top">
 
 ```js
 // vishal.config.js
 
 module.exports = {
   location: "Hubballi, India 📍",
-  education: "KLE Technological University",
-  
+  education: "KLE Tech University",
+
   languages: [
     "Python", "Java", "C", "C++",
     "JavaScript", "TypeScript"
   ],
-  
+
   interests: [
     "Full Stack Development",
     "Machine Learning",
@@ -79,9 +70,10 @@ module.exports = {
   ],
 
   deployed: "deligo.live 🚀",
-  
+
   debug: () => {
-    console.log("it works!"); // and I'm proud of it �
+    console.log("it works!");
+    // ^ and I'm proud of it 😤
   }
 };
 ```
@@ -149,12 +141,14 @@ module.exports = {
 
 <div align="center">
 
-<a href="https://github.com/VISHAL-Nk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHAL-Nk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/VISHAL-Nk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL-Nk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=VISHAL-Nk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VISHAL-Nk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Vishal's GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VISHAL-Nk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VISHAL-Nk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -164,7 +158,7 @@ module.exports = {
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/VISHAL-Nk">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHAL-Nk&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=A960FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+  <img src="https://streak-stats.demolab.com/?user=VISHAL-Nk&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=A960FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -175,7 +169,7 @@ module.exports = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VISHAL-Nk&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=VISHAL-Nk&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -196,16 +190,16 @@ module.exports = {
 <div align="center">
 
 <a href="https://github.com/VISHAL-Nk/deligo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHAL-Nk&repo=deligo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=deligo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="deligo" />
 </a>
 <a href="https://github.com/VISHAL-Nk/carrer-guidance-nextjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHAL-Nk&repo=carrer-guidance-nextjs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=carrer-guidance-nextjs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="carrer-guidance-nextjs" />
 </a>
 <a href="https://github.com/VISHAL-Nk/ExpenseTracker-SpringBoot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHAL-Nk&repo=ExpenseTracker-SpringBoot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=ExpenseTracker-SpringBoot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="ExpenseTracker-SpringBoot" />
 </a>
 <a href="https://github.com/VISHAL-Nk/WIDS_Datathon-2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHAL-Nk&repo=WIDS_Datathon-2025&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=WIDS_Datathon-2025&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="WIDS_Datathon-2025" />
 </a>
 
 </div>
@@ -224,7 +218,7 @@ module.exports = {
 
 </div>
 
-> 💡 *To enable the snake animation, add [this GitHub Action workflow](https://github.com/Platane/snk#github-action) to your repo.*
+> ⚙️ *Go to the **Actions** tab → **Generate Snake Animation** → **Run workflow** to activate this.*
 
 ---
 
