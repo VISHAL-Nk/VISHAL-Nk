@@ -21,20 +21,84 @@
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```yaml
-name: Vishal R Naik
-location: Hubballi, Karnataka, India 🇮🇳
-education: KLE Technological University
-role: Student & Aspiring Full Stack Developer
-interests:
-  - Full Stack Web Development
-  - Machine Learning & Deep Learning
-  - Building real-world applications
-currently_building: "Cool stuff with Next.js & PyTorch"
-motto: "Code, Break, Fix, Repeat 🔁"
+## ⚡ About Me
+
+</div>
+
+<table>
+<tr><td>
+
 ```
+ ╭──────────────────────────────────────────────────────────────────╮
+ │                                                                  │
+ │   vishal@github ~ $ neofetch                                     │
+ │                                                                  │
+ │   ██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗                        │
+ │   ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║                        │
+ │   ██║   ██║██║███████╗███████║███████║██║                        │
+ │   ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║                        │
+ │    ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗                   │
+ │     ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                   │
+ │                                                                  │
+ │   OS ·········· Linux                                            │
+ │   Host ········ KLE Technological University, Hubballi           │
+ │   Uptime ······ Since Oct 2023 on GitHub                         │
+ │   Packages ···· 14 public repos                                  │
+ │   Shell ······· Full Stack + Machine Learning                    │
+ │   Resolution ·· 1920x1080 (cuz I love my screen real estate)     │
+ │   Terminal ···· VS Code + Neovim                                 │
+ │                                                                  │
+ │   ██ ██ ██ ██ ██ ██ ██ ██                                        │
+ │                                                                  │
+ ╰──────────────────────────────────────────────────────────────────╯
+```
+
+</td><td width="40%" valign="top">
+
+<br/>
+
+```js
+// vishal.config.js
+
+module.exports = {
+  location: "Hubballi, India 📍",
+  education: "KLE Technological University",
+  
+  languages: [
+    "Python", "Java", "C", "C++",
+    "JavaScript", "TypeScript"
+  ],
+  
+  interests: [
+    "Full Stack Development",
+    "Machine Learning",
+    "System Design",
+    "Open Source"
+  ],
+
+  deployed: "deligo.live 🚀",
+  
+  debug: () => {
+    console.log("it works!"); // and I'm proud of it �
+  }
+};
+```
+
+</td></tr>
+</table>
+
+<div align="center">
+<br/>
+
+<a href="https://deligo.live"><img src="https://img.shields.io/badge/�_Live_Project-deligo.live-A960FF?style=for-the-badge&labelColor=0D1117" /></a>&nbsp;
+<img src="https://img.shields.io/badge/🧪_Datathon-WiDS_2025-FF6B6B?style=for-the-badge&labelColor=0D1117" />&nbsp;
+<img src="https://img.shields.io/badge/📦_Public_Repos-14-58A6FF?style=for-the-badge&labelColor=0D1117" />&nbsp;
+<img src="https://img.shields.io/badge/🤝_Followers-8-3FB950?style=for-the-badge&labelColor=0D1117" />
+
+<br/>
+</div>
 
 ---
 
