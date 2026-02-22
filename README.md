@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20R%20Naik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Eternal%20Nerd%20🤓&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+things+that+matter+%F0%9F%9A%80;Full+Stack+%2B+Machine+Learning+%F0%9F%A4%96;Student+%40+KLE+Technological+University;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=900&height=60&lines=Building+things+that+matter;Full+Stack+%2B+Machine+Learning;Student+%40+KLE+Technological+University;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 
 <br/>
 
