@@ -155,14 +155,8 @@ module.exports = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=VISHAL-Nk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VISHAL-Nk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Vishal's GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VISHAL-Nk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VISHAL-Nk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
-</picture>
+<img height="180" src="https://raw.githubusercontent.com/VISHAL-Nk/VISHAL-Nk/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img height="180" src="https://raw.githubusercontent.com/VISHAL-Nk/VISHAL-Nk/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 
 </div>
 
@@ -179,11 +173,12 @@ module.exports = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHAL-Nk&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF&hide_border=true&custom_title=Vishal's%20Contribution%20Graph" />
+<img height="200" src="https://raw.githubusercontent.com/VISHAL-Nk/VISHAL-Nk/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+<img height="200" src="https://raw.githubusercontent.com/VISHAL-Nk/VISHAL-Nk/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
@@ -191,31 +186,44 @@ module.exports = {
 
 ## 🔥 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/VISHAL-Nk/deligo">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=deligo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="deligo" />
-</a>
-<a href="https://github.com/VISHAL-Nk/Titan">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=Titan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Titan" />
-</a>
-<br/>
-<a href="https://github.com/VISHAL-Nk/demand-prediction">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=demand-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="demand-prediction" />
-</a>
-<a href="https://github.com/VISHAL-Nk/Chatbot-server">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=Chatbot-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Chatbot-server" />
-</a>
-<br/>
-<a href="https://github.com/VISHAL-Nk/MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks" />
-</a>
-<a href="https://github.com/VISHAL-Nk/Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets" />
-</a>
-<br/>
-
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/VISHAL-Nk/deligo">📦 deligo</a></h3>
+<p>Multi-vendor e-commerce platform: Next.js, MongoDB, AI recommendations, search and chatbot</p>
+<p><img src="https://img.shields.io/github/languages/top/VISHAL-Nk/deligo?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/stars/VISHAL-Nk/deligo?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/last-commit/VISHAL-Nk/deligo?style=flat-square&labelColor=0D1117&color=3FB950" /></p>
+</td>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/VISHAL-Nk/Titan">📦 Titan</a></h3>
+<p>C++17 HTTP server, ~77K req/s</p>
+<p><img src="https://img.shields.io/github/languages/top/VISHAL-Nk/Titan?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/stars/VISHAL-Nk/Titan?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/last-commit/VISHAL-Nk/Titan?style=flat-square&labelColor=0D1117&color=3FB950" /></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/VISHAL-Nk/demand-prediction">📦 demand-prediction</a></h3>
+<p>Demand prediction service (Python)</p>
+<p><img src="https://img.shields.io/github/languages/top/VISHAL-Nk/demand-prediction?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/stars/VISHAL-Nk/demand-prediction?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/last-commit/VISHAL-Nk/demand-prediction?style=flat-square&labelColor=0D1117&color=3FB950" /></p>
+</td>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/VISHAL-Nk/Chatbot-server">📦 Chatbot-server</a></h3>
+<p>Chatbot backend server (Python)</p>
+<p><img src="https://img.shields.io/github/languages/top/VISHAL-Nk/Chatbot-server?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/stars/VISHAL-Nk/Chatbot-server?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/last-commit/VISHAL-Nk/Chatbot-server?style=flat-square&labelColor=0D1117&color=3FB950" /></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/VISHAL-Nk/MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks">📦 MCP-Based-Intelligent-Inte…</a></h3>
+<p>MCP-based interface monitoring and failure detection in 5G wireless networks</p>
+<p><img src="https://img.shields.io/github/languages/top/VISHAL-Nk/MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/stars/VISHAL-Nk/MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/last-commit/VISHAL-Nk/MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks?style=flat-square&labelColor=0D1117&color=3FB950" /></p>
+</td>
+<td valign="top" width="50%">
+<h3><a href="https://github.com/VISHAL-Nk/Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets">📦 Few-shot-Fashion-Category-…</a></h3>
+<p>Few-shot fashion category recognition for emerging apparel markets</p>
+<p><img src="https://img.shields.io/github/languages/top/VISHAL-Nk/Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/stars/VISHAL-Nk/Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets?style=flat-square&labelColor=0D1117&color=A960FF" /> <img src="https://img.shields.io/github/last-commit/VISHAL-Nk/Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets?style=flat-square&labelColor=0D1117&color=3FB950" /></p>
+</td>
+</tr>
+</table>
 
 ---
 
