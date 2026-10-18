@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20R%20Naik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Eternal%20Nerd%20🤓&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=900&height=60&lines=Building+things+that+matter;Full+Stack+%2B+Machine+Learning;Student+%40+KLE+Technological+University;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=900&height=60&lines=Building+things+that+matter;Full+Stack+%2B+Machine+Learning;Final-year+CS+%40+KLE+Tech;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -45,8 +45,8 @@
  │   OS ·········· Linux                                   │
  │   Host ········ KLE Tech University, Hubballi           │
  │   Uptime ······ Since Oct 2023 on GitHub                │
- │   Packages ···· 14 public repos                         │
- │   Shell ······· Full Stack + Machine Learning           │
+ │   Packages ···· 25 public repos                         │
+ │   Shell ······· Full Stack + ML + Systems               │
  │   Resolution ·· 1920x1080                               │
  │   Terminal ···· VS Code + Neovim                        │
  │                                                         │
@@ -71,10 +71,15 @@ module.exports = {
     "JavaScript", "TypeScript"
   ],
 
+  building: [
+    "Deligo — multi-vendor e-commerce + AI",
+    "Titan — C++17 HTTP server"
+  ],
+
   interests: [
     "Full Stack Development",
     "Machine Learning",
-    "System Design",
+    "System Design", "Distributed Systems",
     "Open Source"
   ],
 
@@ -94,9 +99,9 @@ module.exports = {
 <br/>
 
 <a href="https://deligo.live"><img src="https://img.shields.io/badge/�_Live_Project-deligo.live-A960FF?style=for-the-badge&labelColor=0D1117" /></a>&nbsp;
-<img src="https://img.shields.io/badge/🧪_Datathon-WiDS_2025-FF6B6B?style=for-the-badge&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/badge/📦_Public_Repos-14-58A6FF?style=for-the-badge&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/badge/🤝_Followers-8-3FB950?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚡_Titan-77K_req%2Fs-FF6B6B?style=for-the-badge&labelColor=0D1117" />&nbsp;
+<img src="https://img.shields.io/badge/📦_Public_Repos-25-58A6FF?style=for-the-badge&labelColor=0D1117" />&nbsp;
+<img src="https://img.shields.io/github/followers/VISHAL-Nk?style=for-the-badge&logo=github&label=Followers&color=3FB950&labelColor=0D1117" />
 
 <br/>
 </div>
@@ -191,15 +196,24 @@ module.exports = {
 <a href="https://github.com/VISHAL-Nk/deligo">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=deligo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="deligo" />
 </a>
-<a href="https://github.com/VISHAL-Nk/carrer-guidance-nextjs">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=carrer-guidance-nextjs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="carrer-guidance-nextjs" />
+<a href="https://github.com/VISHAL-Nk/Titan">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=Titan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Titan" />
 </a>
-<a href="https://github.com/VISHAL-Nk/ExpenseTracker-SpringBoot">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=ExpenseTracker-SpringBoot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="ExpenseTracker-SpringBoot" />
+<br/>
+<a href="https://github.com/VISHAL-Nk/demand-prediction">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=demand-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="demand-prediction" />
 </a>
-<a href="https://github.com/VISHAL-Nk/WIDS_Datathon-2025">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=WIDS_Datathon-2025&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="WIDS_Datathon-2025" />
+<a href="https://github.com/VISHAL-Nk/Chatbot-server">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=Chatbot-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Chatbot-server" />
 </a>
+<br/>
+<a href="https://github.com/VISHAL-Nk/MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="MCP-Based-Intelligent-Interface-Monitoring-and-Failure-Detection-in-5G-Wireless-Networks" />
+</a>
+<a href="https://github.com/VISHAL-Nk/Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=VISHAL-Nk&repo=Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Few-shot-Fashion-Category-Recognition-in-Emerging-Apparel-Markets" />
+</a>
+<br/>
 
 </div>
 
